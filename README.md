@@ -6,8 +6,8 @@
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
 # Features
+![スクリーンショット 2023-06-25 115718](https://github.com/Taiki-sub/Othello_java/assets/136961174/1ce11555-a423-475d-81bb-27eb94a64c96)
 
-"hoge"のセールスポイントや差別化などを説明する
 
 # Requirement
 
