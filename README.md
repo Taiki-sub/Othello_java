@@ -3,7 +3,7 @@
 二人でオセロを楽しむことができます！
 # DEMO
 ![スクリーンショット 2023-06-25 114616](https://github.com/Taiki-sub/Othello_java/assets/136961174/8671c7b5-6a73-4426-b2be-4ef486b46865)
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+
 
 # Features
 ![スクリーンショット 2023-06-25 120052](https://github.com/Taiki-sub/Othello_java/assets/136961174/dfcf2994-0251-4ae1-8727-7b30736437b1)
@@ -16,40 +16,20 @@
 3. 退出制限
    - 試合中に退出（ウィンドウを閉じる）しようとすると、アラートが出る
    - 試合中に退出すると、相手が勝利になる
+4. リスタート機能
+   - 試合が終了すると、両者がボタンを押せばリスタートできる
      
-
-   
-  
-
-
-
 # Usage
-
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+netprog.cmdで以下を入力してください（別々に起動させて、入力してください）
 ```
-
-# Note
-
-注意点などがあれば書く
-
-# Author
-
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
-
-# License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
+javac MyServer2.java
+java MyServer2
+```
+```
+javac MyClient.java
+java MyClient
+```
+```
+javac MyClient.java
+java MyClient
+```
